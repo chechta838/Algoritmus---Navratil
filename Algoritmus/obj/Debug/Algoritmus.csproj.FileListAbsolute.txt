@@ -1,0 +1,8 @@
+C:\Users\navra\Desktop\TDSA\Algoritmus\bin\Debug\Algoritmus.exe.config
+C:\Users\navra\Desktop\TDSA\Algoritmus\bin\Debug\Algoritmus.exe
+C:\Users\navra\Desktop\TDSA\Algoritmus\bin\Debug\Algoritmus.pdb
+C:\Users\navra\Desktop\TDSA\Algoritmus\obj\Debug\Algoritmus.csproj.AssemblyReference.cache
+C:\Users\navra\Desktop\TDSA\Algoritmus\obj\Debug\Algoritmus.csproj.SuggestedBindingRedirects.cache
+C:\Users\navra\Desktop\TDSA\Algoritmus\obj\Debug\Algoritmus.csproj.CoreCompileInputs.cache
+C:\Users\navra\Desktop\TDSA\Algoritmus\obj\Debug\Algoritmus.exe
+C:\Users\navra\Desktop\TDSA\Algoritmus\obj\Debug\Algoritmus.pdb
